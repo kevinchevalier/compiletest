@@ -24,7 +24,7 @@ fn hey(){
 }
 
 // newer comment
-fn hey(){
+fn changes(){
 }
 
 // Functions that "don't" return a value, actually return the unit type `()`
