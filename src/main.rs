@@ -20,7 +20,7 @@ fn is_divisible_by(lhs: u32, rhs: u32) -> bool {
 }
 
 // new comment
-fn hey(){
+fn changesd(){
 }
 
 // newer comment
