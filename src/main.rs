@@ -19,6 +19,9 @@ fn is_divisible_by(lhs: u32, rhs: u32) -> bool {
     lhs % rhs == 0
 }
 
+fn hey(){
+}
+
 // Functions that "don't" return a value, actually return the unit type `()`
 fn fizzbuzz(n: u32) -> () {
     if is_divisible_by(n, 15) {
