@@ -40,6 +40,10 @@ fn fizzbuzz(n: u32) -> () {
     }
 }
 
+// newest comment
+fn hey(){
+}
+
 // When a function returns `()`, the return type can be omitted from the
 // signature
 fn fizzbuzz_to(n: u32) {
