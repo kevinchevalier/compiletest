@@ -12,6 +12,7 @@ fn main() {
 
 // Function that returns a boolean value
 fn is_divisible_for(lhs: u32, rhs: u32) -> bool {
+// hey hey
 // Is this divisible into.
     // Corner case, early return
     if rhs == 0 {
